@@ -1,0 +1,5213 @@
+fileFormatVersion: 2
+guid: 64cd2c390ef556d4b81188ce710f4d72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caveFloorDeco_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7667050f15e8c49b26812c9633c3c5
+      internalID: -216577557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2efdaa883ece54bad43ebadd7c63cc
+      internalID: -1867428609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df89c682359aaca4ab6c6ff3d9b6a55f
+      internalID: 39058245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a24d4a6abf5b46b9698af2b158e07
+      internalID: 454617962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_pistol
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 932
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fe8ea885b7b24aaf0f4ad13eb56a9
+      internalID: -1413905567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a95852ef693224faa0d0521766a5f8
+      internalID: 42808757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBig_0
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 932
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2087897e292f14590ba336988bad03
+      internalID: -519098014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBig_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 931
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9efb109c68310c40ba42b3d9fb86ce2
+      internalID: 1635170643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigL_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 931
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcf35da814fca14ba8b0098232766fa
+      internalID: 1375035004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigL_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 931
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad5f6eef79ca4438bcb2173c020ba8
+      internalID: 70526620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigL_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 931
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337e43dbc456014d94a3a0aae1dada3
+      internalID: 1744677028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigR_0
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 931
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc87e0e7c91bf848ad6b47013fed986
+      internalID: 39663712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigR_1
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 932
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f96e7dcdb0c4645a1ec5972c3c4f2c
+      internalID: 1509784300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedBigR_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 932
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022a2b150269c67428f6ab84b33f6db1
+      internalID: 9912353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideL_corner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d457b7a081a0e84fbcb58465e4e1c85
+      internalID: -1726759201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253300bb71c4bb4eb5ba29e8efc037e
+      internalID: 1496626658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a43b70b78b9ec498f32057cc0ad5ec
+      internalID: -867889134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea119e9bcb8383245b3ee4a23ba8d1b8
+      internalID: 436313304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d78efc6c937c41aefa60dc8ea5885
+      internalID: 272119693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_laser
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 898
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee89e1bc5aa11894fb1d9c55b8d7d69b
+      internalID: -1806505341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletEnergy_0
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 914
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc92dd3aecb144992c168d8f441bd2
+      internalID: -1424879557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideR_corner
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c56ce18d4f7d4fa23c370ca2a2986
+      internalID: -662766483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedSmall_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4d621ef969684c96a592d1bee7415
+      internalID: -2001312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedSmall_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553f95ff2e4f2a4584a86e4fc363d6f
+      internalID: 88295319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedSmall_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8c8b1cdfceabe49b361e7d08ca4390
+      internalID: -404441026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedSmall_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4994c25378874b9c24586d53346a6
+      internalID: 1780225511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeRedSmall_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f080ea57e3fd44a96f66d7bc364f77
+      internalID: 1916348448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideL_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c85b382bde104c971b305205e1fa2
+      internalID: -2034584295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveVoid
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918c2f005199874f8051fecfcad0599
+      internalID: 2073017387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9bbe74f306d7e4cae20a7ebab5e954
+      internalID: -1570144439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8268c3a0d7d687947818e056bb9b289c
+      internalID: 1084095941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideR_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecf579eabbf1d47ac3c785265ba2cb
+      internalID: -96285973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBig_0
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 868
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eae88e6695d8d438c6e3de5645385f
+      internalID: 1412386873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBig_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 867
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8adf8d39dd62f4da991e688f6259fd
+      internalID: 302185702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigL_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 867
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be28ba5dce271d4b9419b1f20d27fad
+      internalID: 2034859113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigL_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 867
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126732c1a59e240499983d2708684ea1
+      internalID: 304350826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigL_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 867
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e8f0b023d1bbe4d8bfce970e9ac457
+      internalID: -745542692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigR_0
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 867
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9f4094b3105342bf845c3669e5f5b
+      internalID: -270131724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigR_1
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 868
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b85dd11b7108f84db24a562a6b5213f
+      internalID: 316446950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueBigR_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 868
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab596f9ba35cc94aaf32492524e5ddf
+      internalID: 1534005920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f130d469da8641ad5976384530ede
+      internalID: 1236128665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveCliff_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a4a8e14391704aa49c5d613676039
+      internalID: -1480030728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveCliff_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b3b208b96491449e64a30a3fdb276
+      internalID: 979069819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveCliff_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 832
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4197345819f04eaeecb0a97a5e578
+      internalID: 1194657139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloor
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c252e067faa6e14790f3dd2954f7dda
+      internalID: 1101142355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706a4c31a3f9c5468bb332e84d8e5a0
+      internalID: -491410700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf6de3d2a18874d9455ec0037454f5
+      internalID: -1757146645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveFloorDeco_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc9dc771261ef46b09540892e26908
+      internalID: 1010913933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_sword
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 837
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f545da4057d14285ee7ac4c288c1c
+      internalID: -721309046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideR_0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2881c7aec9d1e45abd8171bc4e453e
+      internalID: 209359388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueSmall_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8687fa3fb10c4cb23f26959a72798
+      internalID: -204136703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueSmall_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd321fd32497456459d5d18eea466599
+      internalID: -1078321006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueSmall_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199c4be791e977438e26f71f9ef9286
+      internalID: -1236646444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueSmall_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a170b5de9834a48a4ca434f1947e23
+      internalID: 37639896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlueSmall_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06947e61c42cece40b3ec340c9c895a1
+      internalID: -1951774720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallR_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9f5ba40b1610429bd1cd5935be91f
+      internalID: -1050338973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBig_0
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 804
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa1fcfc55dc8140baa891ae13877e9
+      internalID: 953673467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBig_1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 803
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd45fef5b979342b13c20c8703a9b8
+      internalID: -510125436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigL_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 803
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19efd6624946c04194fcf4f3ed1b382
+      internalID: 756336255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigL_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 803
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257118507f54694c8f946c71724e73b
+      internalID: -569210260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigL_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 803
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c3afa819ac7240ae933f745af26ba
+      internalID: 1519739994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigR_0
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 803
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5631070c238a2e4eb66c87344c28635
+      internalID: -130091140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigR_1
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 804
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb4a4a513734b04896b5b281e0afd90
+      internalID: 940685548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenBigR_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 804
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab824435ab1c96d48a9ee60bdaa8acd0
+      internalID: 357059117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenSmall_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72feee51f795849b10673d9eaa5aa0
+      internalID: 822703858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenSmall_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd94c1c63e5f5f146b0ad7f3bc350931
+      internalID: -2014438459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenSmall_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbc7f9f8c823a46a53f6abb7f0ba91
+      internalID: 952911339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenSmall_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a8f04126db0f4180a93876d8a4670
+      internalID: 1074730230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeGreenSmall_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8360a3d6d9e444fb4488b15fe7df38
+      internalID: 1260912308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallL_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c151b3366b124286618ddfbd92978
+      internalID: -1678626004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallL_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe5ceb9ac8c4e4e8bb6185fc6ea4c8
+      internalID: 1909198661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallL_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93defe1191ec841aa904f77c506aaf
+      internalID: -398443723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallL_outerCorner
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c388ef991ad1448a8c4eecc49c4a3
+      internalID: -621007561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallL_innerCorner
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ac4ca1b942c64786874439ab00b1d
+      internalID: 746379342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallR_innerCorner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd815fdb72e45a49b75cc430d5f2a5e
+      internalID: 1259176904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallR_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e217c2a3387324a845f14e90c8c5d1
+      internalID: -690951627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallR_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da14e4ecb2bab49bcf5a39381b2225
+      internalID: 847233013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallR_outerCorner
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 704
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0acfda8cbbf946a6112b23245ee5c
+      internalID: 1738436499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortL_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02974af4520259d48b81ccf1fe4d2b63
+      internalID: -656600374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortR_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c3e75364c1943478d041f2ba4bdbff
+      internalID: 2030902788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labDoor_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31c21351beaad4db0c91748d56cabc
+      internalID: 1468841045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortL_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17fc5555005af94b8e6012a198a50ba
+      internalID: -1957453993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortR_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 640
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8dd444de64404288d52c63ae3616e
+      internalID: 2057579800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortL_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd0b2810479a54a9e26e47c3e27d25
+      internalID: 268660280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortR_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 608
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d8cadf8da189419b46672abb929ac
+      internalID: -1204103847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c3bb5c18f79b4fa8f55b01337e3a9
+      internalID: 1080845844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90224c701a20434086e8cc93d2303bb
+      internalID: 532856533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3ff7306287084d8574abf1fa0db0a
+      internalID: 1446240177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11447a751e240d74c9f0cf3e3cfa7d11
+      internalID: 2079418131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2282b92050bf8b4fa50a059ced610a1
+      internalID: 1868956493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_5
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f35d66bd2db64195f03c4e95d1f53
+      internalID: 1088965477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labDoor_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec18a91707efe40810929334bad4d3
+      internalID: 677550696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortL_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ad01eff10f274995b5c4f49a9e731
+      internalID: -1415419562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortR_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 576
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5dc44c80c0a847bb00d9555174ddf
+      internalID: -1840921085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labDoor_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122c20c97e552f4586c8ed4b8e03546
+      internalID: 535997991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeBlob
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25138fb150c31ff47844f19579d4fc0d
+      internalID: 1382333059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortL_corner
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74dfc6f35ad4448950309ce65b9881
+      internalID: 197292872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideShortR_corner
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8bcadf048583d458478e74ab1b8f89
+      internalID: 1845054999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labVoid
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a8fdd3045dcb41888b999ef224c5e
+      internalID: -592124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e147b1e2fee6429ed43923eb758db
+      internalID: -1092199554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb4b07332bf7d4883c4f48ba9aa737
+      internalID: 1649447600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c9e36120104a043a82e16f2499bdca
+      internalID: -1610442438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60f75e82a597142b3924ea56aaea69
+      internalID: -1701565197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab10b481a1df64f828e4e1d420b74f
+      internalID: 1801838159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b5ab02de2f8f4b8317106d522a650
+      internalID: -1787523189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labDoor_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8281652e506cab439f496860a8729e7
+      internalID: -1082488170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-LB
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22eb7a6a9358e4e8263f843da65fa7
+      internalID: -619595311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallShort-L
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a498efa736ee1b458cda80669bb794f
+      internalID: -1756899203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb50b55f9d6fac41ad33dbb5e59b98e
+      internalID: -589505153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_red
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2704bc06b72fb458e0eaa62756c4de
+      internalID: 212507546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallShort-R
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6361e780def254f90e85575ec1b272
+      internalID: -2116656298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-RB
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc7b8faa4160894ca410c4c0afc0dce
+      internalID: 1765430445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazardSign
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 427
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280fea59c20002409096472a0b5102b
+      internalID: -2142181376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-LM
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d386ced0cecf3e41a917e8ca6bdb9f4
+      internalID: 250548749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-RM
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657711e2d1b48b0469086bbe7c404622
+      internalID: -2009138694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06081379b01d84743bd2155a140fe094
+      internalID: -1657739923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labDoor_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350d916aa30cf842a47b683019653ab
+      internalID: 584904672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-LF
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4336f052ca5c7439fa587eaaa6c0e9
+      internalID: 1863564881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallLong-L
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e81526c0c00845bf5b855c2e36bcd
+      internalID: 1534564801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labFloor
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192921c801f47f45ab351847c0552b7
+      internalID: 842689525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallSide-RF
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd015db4ac7fa458b1285f1524202b
+      internalID: -1312528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb2ba0c697e1b468f8e10d7d78ee26
+      internalID: 61450240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0200dd0a8f548346aa91a8f6c7b1f61
+      internalID: 1400014180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7c47b486aaf541b945b16f80fa13b
+      internalID: -569700214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3894fc8b32187442b0a703abbaef843
+      internalID: -1033256716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28baaf2d4f90124c8fcfd0a2cd43324
+      internalID: -1998044996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20204f0ea71b20a4489bb91140339c22
+      internalID: 8241936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd84723d64799f49a6c8ff5bc3d615f
+      internalID: -2089691702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBack_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0459c0df9d673b14fb4ba57689559bd0
+      internalID: 567562026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435eb8572b3a9d43b43983a6b948d02
+      internalID: 1440793485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706bc0a9d6ab074469b1f129520869f9
+      internalID: -627279955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBack_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b907d8992407f04aab353b95155af6c
+      internalID: -258956298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerFront_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faea5f748c776a4a95969cc8500fa54
+      internalID: 1583413047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerFront_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6651ab17a1484e890c48e7864df7e
+      internalID: 1905352448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerFront_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524caeab129bc4341ad90ee60208a9c7
+      internalID: 1788284621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerFront_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd08236dc731f4eae6ad41973799ca
+      internalID: 421052833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerFront_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f86d3202d5e082478f4862284afbbf4
+      internalID: 583447881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c38f0a370cb3644b0c8960de4c0f4a
+      internalID: 1242287793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7f7033d971d249810419173c751ce
+      internalID: 1195814987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f6d7aa95c9e341a84379702db6b6b
+      internalID: -1089248920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aefd8f7adfb604499fe7bdb4bb748b
+      internalID: -2056636104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672f8e38f86041418b2ba713e8a65eb
+      internalID: 1873315625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa4e7961b1d1d4c813dd59c1b4ab7d
+      internalID: 323661360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSide_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c246b06bc9f9f48a268893cab5b717
+      internalID: -1559933331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSide_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ed1c2dc674c648b2ceb5384871831
+      internalID: -415277418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSide_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de368c368a8a8c46a3be796ecce35c1
+      internalID: 823842129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSide_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675ffbfc32fd974fabb610d8e3eef99
+      internalID: -1820159419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSide_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d654bc986daefc47ba94ffb2c025b40
+      internalID: 1952378454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rammer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c6ca055f2fd54e9024fcf9c99f613
+      internalID: 1161265483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rammer_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720a6af3d050ef4ea7edd1e8508ead0
+      internalID: -284689654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rammer_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b6e384dc9e6a4bb798104ee3cff01
+      internalID: 39879793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rammer_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06de18f11fc35d4a9f76e0edb093bac
+      internalID: 344343504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rammer_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482dc60bce3ba584d992b2a5e58c6dc4
+      internalID: 1431751551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duplicator_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d747bac6faeb4e8a2718c38e7f2a0
+      internalID: 1206406356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duplicator_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c26ed364f1c15d49a73033be0c72428
+      internalID: -909988399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duplicator_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c0e2f5683d7b84f9ac45cb070a67a5
+      internalID: -985678604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duplicator_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041d195d377aa14999930ac441977f3
+      internalID: -593884360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserTurret_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498bfb36edc1c44894efb2f5e843184
+      internalID: -1389774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserTurret_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed327704d250924e9c12b285e4f7009
+      internalID: -60925777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54be6c3d42e84a49ab9207cd2c0c74e
+      internalID: 628445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca9ab98a343914ba1add62d1156367
+      internalID: -33569763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd715240b63d24f97f1600a9bbe71f
+      internalID: -1152243086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b0b1b0a4cfee4e9bbe54cddb0b215
+      internalID: 1781193657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_28
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086709efe03c02548bc31b86cf83add4
+      internalID: 687428554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reactor_29
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658210225b677984a9a5b24726b034ab
+      internalID: 629093267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-battery
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435cdff52018e048ab85c3b596b301b
+      internalID: -2544324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-arrow
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 40
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c349b3b878229fb4c9be54a5476a7adb
+      internalID: -613103613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-tempHOT
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 89
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a315aed3a9f84c80066f8f6a741da
+      internalID: -1539016902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-syringe
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d56c53e7ff3a146bf972c7b509eaac
+      internalID: -34360526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-tempCOLD
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 89
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dbaa2ecf5bf9e4880c90e23f1481fe
+      internalID: 1181041426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-temp
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 89
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588df0f5eb223f84592abad606c9762b
+      internalID: -461184562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-arrowUP
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622202ad20bd45340aa6b3d3891d6e7b
+      internalID: 49369396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-arrowDOWN
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 112
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c005aeed4b4dd54890b27e949a0bbef
+      internalID: -54821024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_purple
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad14d242a2dfb448785c9d99de2538
+      internalID: -548965614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_green
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ff147c924b2a44ab35bb190324716
+      internalID: -1138639191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d733c3cbf333a40ae89a8582447428
+      internalID: 736720999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_open
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcab8f94bddc549b14f0476553092a
+      internalID: -1772801075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputerLock_noEnergy
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66adf670c69284eb0da256ab56a588
+      internalID: -876739425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f97ef590472e64ebe5e2643fa54f2f
+      internalID: -653405631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83570aa3a624fc43be1c99966955ab2
+      internalID: 1707905116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d24f2ee1cdf95488d33bf42138cc96
+      internalID: 1866601454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cee5dbc8bd3bb48ad8376057ade76f
+      internalID: 1853634847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labComputer_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f40ca589badb4988183725604a276
+      internalID: -853561466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTable_research
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 682
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6efdf47c0bd84e41bf578ea4710bfe7
+      internalID: 1548433502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTable_empty
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 659
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bae6141826fa945ae1120eeabd6290
+      internalID: -1730127308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTable_blob
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 627
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25089287faf766a449fe80d92cb3c7fb
+      internalID: -650195821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTable_writing
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 602
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d9b71a6018ef45890596ef7fe2ef3
+      internalID: 1399144143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labTable_goo
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 579
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9a3f1a42f99c47b9eb969a0c9e6ba
+      internalID: 1163322711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labChest_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 496
+        width: 49
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5118421, y: 0.34687212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a692145bba1f46a69b99255e98f06
+      internalID: 1678065486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labChest_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 548
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff1bba7b0883a46827f7ae70250bae
+      internalID: -1827550882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: labWallLong-R
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2768057fbd340dc4ea33f3c385b78464
+      internalID: -1848867953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_battery
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32356b4aba5135e41bf498b6dd9d71e0
+      internalID: -233119564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_medkit
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0050ffc7a77c468fa6bbe2083a3f9
+      internalID: -1299526066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_bullet
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0bd74e60bdf7e4e97dbeb6970eb834
+      internalID: -937924138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveInnerwallL
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979786b4e53be6c48adb6208c763931f
+      internalID: 237453655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveInnerwallR
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd8f8276419cb447bcf94e0f7c83981
+      internalID: 1871378163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideRB_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52fa01f0c558241a3243e0699dc2da
+      internalID: 2017817868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideRB_0
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a47aab59727446b2e0cbeb458fc4d
+      internalID: -24766079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideLB_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ba775dc5b7fa4f8a291ff71edec04
+      internalID: 191922298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveWallSideLB_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e813fdea37e5d724aa4585b00cad2af8
+      internalID: 913877487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-noArrow
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 118
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08e4c19e73cd74a8e10d962c6f9b9a
+      internalID: -1519854862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ATLAS - new_488: -1326150449
+      ATLAS - new_576: -995696621
+      playerFront_4: 583447881
+      playerSide_2: 823842129
+      ATLAS - new_179: 2072514897
+      caveWallL_2: -398443723
+      ATLAS - new_581: 1679223530
+      labComputerLock_noEnergy: -876739425
+      ATLAS - new_652: -2113869250
+      ATLAS - new_657: 59677785
+      ATLAS - new_641: -1179867908
+      UI-battery: -2544324
+      ATLAS - new_784: 436329969
+      ATLAS - new_74: -51484106
+      ATLAS - new_285: 301388313
+      ATLAS - new_594: 1722333670
+      hazardSign: -2142181376
+      ATLAS - new_658: 590990676
+      ATLAS - new_150: -1457629177
+      ATLAS - new_158: -966370700
+      ATLAS - new_534: -467090228
+      ATLAS - new_493: 1963782901
+      ATLAS - new_564: -1430115218
+      ATLAS - new_312: 917611554
+      caveWallSideShortL_1: -1957453993
+      caveCliff_1: 979069819
+      ATLAS - new_177: 610301520
+      ATLAS - new_323: 164783044
+      ATLAS - new_791: 1071908382
+      ATLAS - new_304: 2141021544
+      ATLAS - new_42: 1460413776
+      ATLAS - new_559: 280636433
+      labComputerLock_purple: -548965614
+      ATLAS - new_748: 1825553513
+      ATLAS - new_691: -614349020
+      ATLAS - new_102: 463260260
+      ATLAS - new_716: -368941907
+      ATLAS - new_469: 461893837
+      ATLAS - new_817: -1028417812
+      slimeGreenSmall_2: 952911339
+      ATLAS - new_413: -773698008
+      ATLAS - new_693: -92746572
+      ATLAS - new_624: -918886142
+      ATLAS - new_397: 1043320255
+      ATLAS - new_861: 1305641748
+      ATLAS - new_376: -88234957
+      ATLAS - new_439: 1318514210
+      slimeGreenBigR_2: 357059117
+      reactor_6: -1092199554
+      ATLAS - new_33: 2144068164
+      labChest_0: -1827550882
+      ATLAS - new_123: -1602568044
+      caveWallSideShortL_corner: 197292872
+      ATLAS - new_694: 826053517
+      ATLAS - new_762: -1069470839
+      ATLAS - new_625: -677273390
+      ATLAS - new_446: -2123406366
+      ATLAS - new_831: -1993410740
+      reactor_25: -33569763
+      ATLAS - new_346: 2062934476
+      ATLAS - new_436: -1697439133
+      ATLAS - new_63: -2041823345
+      ATLAS - new_714: 621857768
+      rammer_4: 1431751551
+      ATLAS - new_399: 745172902
+      ATLAS - new_306: -1781963028
+      caveWallL_outerCorner: -621007561
+      ATLAS - new_333: 30693263
+      ATLAS - new_740: -628240138
+      ATLAS - new_13: -1327989922
+      ATLAS - new_809: -1191567924
+      ATLAS - new_416: -2013093115
+      ATLAS - new_14: 1716657624
+      ATLAS - new_676: 1552879291
+      ATLAS - new_389: -579077790
+      ATLAS - new_269: -1428818708
+      ATLAS - new_614: -957348285
+      ATLAS - new_679: 532722002
+      ATLAS - new_442: -126746527
+      ATLAS - new_387: -2134079534
+      ATLAS - new_417: -1761473555
+      ATLAS - new_589: 1805666310
+      labWallLong-L: 1534564801
+      labComputer_4: 1866601454
+      ATLAS - new_72: -2138055914
+      ATLAS - new_277: -345996814
+      ATLAS - new_805: 1206027295
+      ATLAS - new_704: -1082497637
+      ATLAS - new_806: -1116329198
+      ATLAS - new_429: -1708283271
+      ATLAS - new_474: 682412239
+      slimeGreenBig_1: -510125436
+      ATLAS - new_834: 1720745189
+      ATLAS - new_398: -1422783446
+      ATLAS - new_682: 1083233805
+      ATLAS - new_514: -2014521711
+      ATLAS - new_521: 1284198570
+      labDoor_3: 677550696
+      ATLAS - new_202: -449749831
+      ATLAS - new_764: 882996755
+      duplicator_3: -593884360
+      ATLAS - new_485: -1630103887
+      ATLAS - new_68: -1628449652
+      ATLAS - new_606: 682954608
+      UI-arrowUP: 49369396
+      ATLAS - new_644: -802888914
+      ATLAS - new_117: -1288007326
+      ATLAS - new_366: -450279327
+      slimeRedSmall_3: 1780225511
+      ATLAS - new_615: -574536968
+      slimeRedBig_1: 1635170643
+      ATLAS - new_185: -1397959000
+      ATLAS - new_298: -256009721
+      ATLAS - new_471: 507373051
+      labComputer_1: -589505153
+      ATLAS - new_481: -1902403055
+      ATLAS - new_107: -1585881526
+      ATLAS - new_558: 1956221246
+      ATLAS - new_826: 1319281696
+      ATLAS - new_735: 1838955378
+      ATLAS - new_338: 2117582536
+      ATLAS - new_753: 304291127
+      ATLAS - new_273: 1100954046
+      ATLAS - new_452: 383610232
+      ATLAS - new_365: -446958655
+      ATLAS - new_375: 1724020977
+      ATLAS - new_684: -824527290
+      playerSide_4: 1952378454
+      ATLAS - new_501: 255414124
+      caveWallSideLB_0: 191922298
+      ATLAS - new_622: -871502847
+      slimeBlueSmall_2: -1236646444
+      ATLAS - new_781: 93158380
+      slimeBlueBigL_2: -745542692
+      ATLAS - new_319: -279746113
+      ATLAS - new_498: -378552069
+      ATLAS - new_5: -602822487
+      ATLAS - new_326: 1708731354
+      ATLAS - new_192: -694651924
+      ATLAS - new_286: -1229618371
+      ATLAS - new_464: -1383526949
+      ATLAS - new_282: -152932606
+      labWallShort-L: -1756899203
+      ATLAS - new_741: -1955137019
+      slimeRedBigR_1: 1509784300
+      ATLAS - new_155: -946145292
+      ATLAS - new_587: 1229912899
+      ATLAS - new_802: 258593093
+      slimeGreenSmall_1: -2014438459
+      ATLAS - new_853: 1050708579
+      caveWallSideShortL_2: 268660280
+      caveWallR_innerCorner: 1259176904
+      ATLAS - new_835: -600843372
+      ATLAS - new_440: 1536827207
+      ATLAS - new_301: 730937486
+      ATLAS - new_255: -623344786
+      ATLAS - new_832: -1288082269
+      ATLAS - new_293: 70939980
+      ATLAS - new_528: 1149007973
+      ATLAS - new_263: 151200193
+      ATLAS - new_680: -671509649
+      ATLAS - new_662: -1263538323
+      ATLAS - new_61: -1556747129
+      ATLAS - new_378: 435608645
+      ATLAS - new_142: 328307663
+      reactor_15: -1033256716
+      ATLAS - new_621: -342321830
+      ATLAS - new_718: 318231662
+      ATLAS - new_774: 1952589760
+      ATLAS - new_284: 1971717847
+      ATLAS - new_819: 258243436
+      ATLAS - new_476: -869013989
+      ATLAS - new_296: 506548276
+      ATLAS - new_56: 1686580047
+      ATLAS - new_339: -909280248
+      ATLAS - new_798: 2130362853
+      ATLAS - new_566: 784813154
+      caveWallSideRB_0: -24766079
+      ATLAS - new_712: 1177210718
+      ATLAS - new_420: 331719482
+      ATLAS - new_410: -646420129
+      ATLAS - new_24: 656263116
+      ATLAS - new_203: 1665863994
+      ATLAS - new_511: -119946397
+      ATLAS - new_324: -1245582116
+      ATLAS - new_108: 620898872
+      ATLAS - new_711: 1200354613
+      slimeBlueSmall_0: -204136703
+      ATLAS - new_303: 1980338837
+      duplicator_0: 1206406356
+      ATLAS - new_692: -1884219242
+      labFloor: 842689525
+      ATLAS - new_57: 1253346017
+      ATLAS - new_54: 560047200
+      ATLAS - new_743: -1037670614
+      ATLAS - new_482: 849157456
+      caveWallSideR_0: 209359388
+      ATLAS - new_156: -2037821954
+      reactor_16: -1998044996
+      labVoid: -592124276
+      caveFloorDeco_11: -491410700
+      ATLAS - new_570: -1845366036
+      ATLAS - new_354: 79371790
+      ATLAS - new_650: -1066014371
+      ATLAS - new_4: 17783977
+      ATLAS - new_801: 2050605906
+      ATLAS - new_701: 437276302
+      ATLAS - new_814: 1769744192
+      ATLAS - new_857: 1694173604
+      ATLAS - new_821: 728995608
+      ATLAS - new_607: -571587980
+      slimeGreenBigL_2: 1519739994
+      ATLAS - new_709: 47231956
+      ATLAS - new_608: 1947508568
+      caveCliff_0: -1480030728
+      caveWallSideR_corner: -662766483
+      ATLAS - new_409: 1653529487
+      ATLAS - new_862: -1279768121
+      ATLAS - new_194: -1404271059
+      ATLAS - new_110: 1967595876
+      ATLAS - new_457: -1037629676
+      ATLAS - new_794: 667137351
+      ATLAS - new_793: 1522499003
+      ATLAS - new_76: -785085400
+      ATLAS - new_707: -1371954279
+      ATLAS - new_313: -1610559459
+      rammer_2: 39879793
+      ATLAS - new_358: -525710093
+      ATLAS - new_823: -141876665
+      ATLAS - new_797: -1510697824
+      ATLAS - new_533: 653745869
+      UI-tempCOLD: 1181041426
+      ATLAS - new_504: 1809952657
+      ATLAS - new_838: 1686107695
+      ATLAS - new_148: -994948796
+      ATLAS - new_44: -350034914
+      ATLAS - new_567: 913200711
+      ATLAS - new_800: 1042034365
+      ATLAS - new_231: -657581316
+      ATLAS - new_299: 284933667
+      playerBack_4: -258956298
+      labDoor_2: 535997991
+      reactor_3: 2079418131
+      ATLAS - new_243: 1110611237
+      ATLAS - new_660: 1622113023
+      ATLAS - new_719: 1660629897
+      ATLAS - new_845: -740414207
+      ATLAS - new_200: 1927095586
+      ATLAS - new_773: -25004031
+      ATLAS - new_645: -501934938
+      ATLAS - new_360: 1313300592
+      ATLAS - new_254: 1512565735
+      labComputer_0: -853561466
+      ATLAS - new_271: -1891024286
+      ATLAS - new_475: -1425130958
+      labComputerLock_open: -1772801075
+      ATLAS - new_280: -956710922
+      labWallSide-RF: -1312528850
+      ATLAS - new_661: -2097947668
+      ATLAS - new_368: -2031877776
+      ATLAS - new_788: -1386396180
+      ATLAS - new_159: -1906840819
+      ATLAS - new_274: 1340809038
+      slimeGreenBigL_1: -569210260
+      ATLAS - new_83: -947964271
+      ATLAS - new_180: -1050828712
+      ATLAS - new_732: 1195353454
+      caveWallSideShortR_3: -1840921085
+      ATLAS - new_550: -832493195
+      ATLAS - new_127: -1765276939
+      ATLAS - new_357: -903523959
+      ATLAS - new_40: 607551205
+      ATLAS - new_688: 1652833708
+      ATLAS - new_402: -1419200145
+      ATLAS - new_140: -93624347
+      UI-arrow: -613103613
+      ATLAS - new_453: 129816312
+      labComputerLock_red: 212507546
+      ATLAS - new_95: 2087189949
+      playerSide_3: -1820159419
+      ATLAS - new_412: -1101272841
+      ATLAS - new_468: 1516259437
+      ATLAS - new_824: -2033773237
+      ATLAS - new_577: -1348914510
+      ATLAS - new_839: 1223768424
+      ATLAS - new_557: -2120917370
+      ATLAS - new_240: -1467978974
+      caveWallR_1: 847233013
+      ATLAS - new_383: -2143869300
+      playerFront_2: 1788284621
+      ATLAS - new_721: -1065455995
+      reactor_11: -1787523189
+      ATLAS - new_131: -474572793
+      ATLAS - new_26: 1551055665
+      slimeRedBigL_2: 1744677028
+      ATLAS - new_425: -1351234867
+      ATLAS - new_513: -104028767
+      ATLAS - new_266: -1175668440
+      ATLAS - new_603: 1818174479
+      ATLAS - new_382: 732270250
+      ATLAS - new_460: 1927548932
+      ATLAS - new_789: -861890643
+      ATLAS - new_208: -1433749280
+      ATLAS - new_133: -550180118
+      ATLAS - new_172: -486757159
+      ATLAS - new_633: -1185958105
+      ATLAS - new_715: -928850957
+      ATLAS - new_572: 187978175
+      ATLAS - new_785: -1782627043
+      ATLAS - new_686: -896813200
+      caveWallSideShortL_0: -656600374
+      slimeBlueBigR_1: 316446950
+      ATLAS - new_590: -497079164
+      bulletEnergy_0: -1424879557
+      ATLAS - new_252: 1003029927
+      slimeGreenSmall_3: 1074730230
+      ATLAS - new_62: -1359268118
+      ATLAS - new_187: 911027732
+      ATLAS - new_512: 80341164
+      ATLAS - new_35: -1405934188
+      labTable_research: 1548433502
+      ATLAS - new_288: 734575919
+      ATLAS - new_598: 649425442
+      ATLAS - new_391: 864057981
+      ATLAS - new_751: 1642410922
+      ATLAS - new_367: 1502102431
+      ATLAS - new_443: -2071057651
+      ATLAS - new_843: -1873263186
+      ATLAS - new_506: 1289144465
+      caveFloorDeco_1: -1867428609
+      ATLAS - new_854: -2016558118
+      ATLAS - new_320: -1566753368
+      rammer_1: -284689654
+      slimeBlob: 1382333059
+      ATLAS - new_639: 1573677714
+      ATLAS - new_465: -854947335
+      ATLAS - new_574: -879848044
+      reactor_8: -1610442438
+      ATLAS - new_790: -178337628
+      ATLAS - new_343: 121183472
+      weapon_laser: -1806505341
+      ATLAS - new_314: 1733243027
+      ATLAS - new_347: 558478170
+      ATLAS - new_744: -679113818
+      ATLAS - new_654: 732054011
+      ATLAS - new_302: -278833686
+      ATLAS - new_508: 1702133330
+      ATLAS - new_45: -2039516253
+      ATLAS - new_359: 1936097999
+      ATLAS - new_840: 1651560469
+      ATLAS - new_479: 1518174078
+      caveWallSideL_0: 1236128665
+      ATLAS - new_438: 1205710740
+      ATLAS - new_467: -1822090630
+      ATLAS - new_119: 707385228
+      slimeRedBigR_0: 39663712
+      ATLAS - new_525: 737487825
+      ATLAS - new_846: 2074257218
+      ATLAS - new_15: -1544156860
+      ATLAS - new_507: 1610108550
+      ATLAS - new_537: -1978787783
+      ATLAS - new_516: -1614091767
+      caveWallL_1: 1909198661
+      ATLAS - new_734: 1793163558
+      ATLAS - new_584: 757115313
+      ATLAS - new_248: 294515974
+      ATLAS - new_329: 407623510
+      ATLAS - new_361: 1017886376
+      ATLAS - new_143: 1677923200
+      ATLAS - new_270: -1681393880
+      ATLAS - new_144: -1033013834
+      ATLAS - new_393: 1977718660
+      ATLAS - new_855: -539018821
+      ATLAS - new_522: -373448547
+      labTable_empty: -1730127308
+      slimeBlueSmall_1: -1078321006
+      ATLAS - new_808: 44034976
+      ATLAS - new_749: 1911980964
+      ATLAS - new_247: 446126189
+      ATLAS - new_499: 1753239979
+      ATLAS - new_444: 896611953
+      ATLAS - new_495: 470532188
+      ATLAS - new_283: 1750591133
+      ATLAS - new_812: 660901091
+      ATLAS - new_394: 1003669017
+      labDoor_0: 584904672
+      playerBack_3: -627279955
+      item_medkit: -1299526066
+      ATLAS - new_702: 1348773198
+      slimeBlueBig_1: 302185702
+      ATLAS - new_710: 1799617986
+      ATLAS - new_579: 1247331779
+      ATLAS - new_683: 84648222
+      caveInnerwallL: 237453655
+      caveWallSideShortR_0: 2030902788
+      slimeRedSmall_0: -2001312
+      caveWallSideShortR_2: -1204103847
+      ATLAS - new_335: 1398009934
+      reactor_23: 323661360
+      playerBack_1: 567562026
+      ATLAS - new_833: -1206818632
+      ATLAS - new_325: 702006686
+      ATLAS - new_829: -1091274301
+      labComputerLock_blue: 736720999
+      ATLAS - new_414: -1368470420
+      ATLAS - new_640: -283891409
+      ATLAS - new_146: 1762280531
+      ATLAS - new_121: -951681502
+      ATLAS - new_307: -1756403879
+      ATLAS - new_405: 1580841798
+      ATLAS - new_115: -1743606949
+      ATLAS - new_545: 1261921843
+      ATLAS - new_739: -1757316566
+      ATLAS - new_792: -189342212
+      slimeBlueSmall_3: 37639896
+      slimeGreenSmall_4: 1260912308
+      ATLAS - new_571: -1106473175
+      ATLAS - new_827: 1250263966
+      ATLAS - new_334: 209122517
+      ATLAS - new_340: -38478895
+      labTable_writing: 1399144143
+      ATLAS - new_198: 1211240543
+      ATLAS - new_768: 908279998
+      ATLAS - new_795: -1259263462
+      ATLAS - new_458: 2130690305
+      ATLAS - new_103: -2026748996
+      ATLAS - new_379: 13202927
+      ATLAS - new_627: 1590744551
+      caveFloorDeco_4: 1496626658
+      ATLAS - new_295: 117139844
+      slimeBlueBigR_2: 1534005920
+      ATLAS - new_677: 1690060656
+      caveFloorDeco_0: -216577557
+      slimeGreenBig_0: 953673467
+      ATLAS - new_849: -1295660340
+      ATLAS - new_619: -1083825669
+      ATLAS - new_246: -1434622642
+      ATLAS - new_317: 1139146762
+      slimeBlueBigL_0: 2034859113
+      ATLAS - new_356: 1107724677
+      ATLAS - new_766: 797660112
+      ATLAS - new_738: 760891048
+      ATLAS - new_842: 906587129
+      ATLAS - new_390: 677169751
+      ATLAS - new_459: 1202206431
+      ATLAS - new_540: 1148801189
+      labComputerLeft: -1657739923
+      ATLAS - new_441: -2117802224
+      ATLAS - new_500: -2037312359
+      ATLAS - new_321: -977895229
+      ATLAS - new_370: -112700906
+      caveFloor: 1101142355
+      ATLAS - new_141: -1127416549
+      ATLAS - new_53: 827087088
+      ATLAS - new_157: -2070438661
+      ATLAS - new_372: -704598889
+      ATLAS - new_665: -627604849
+      caveFloorDeco_12: -1757146645
+      ATLAS - new_267: -520765925
+      laserTurret_0: -1389774989
+      ATLAS - new_264: 736977421
+      labWallSide-LM: 250548749
+      ATLAS - new_125: -1517503175
+      ATLAS - new_92: -840396221
+      caveWallL_0: -1678626004
+      ATLAS - new_724: 461190747
+      ATLAS - new_239: -1993891343
+      slimeBlueBigL_1: 304350826
+      caveWallSideShortR_corner: 1845054999
+      ATLAS - new_602: -940652739
+      ATLAS - new_160: 804522612
+      reactor_5: 1088965477
+      ATLAS - new_515: -1853622954
+      ATLAS - new_490: 393338148
+      ATLAS - new_292: -1877091533
+      ATLAS - new_322: -928611189
+      slimeRedBigL_0: 1375035004
+      ATLAS - new_426: -377966703
+      ATLAS - new_432: -1517040168
+      ATLAS - new_580: 242318700
+      ATLAS - new_583: -653896054
+      ATLAS - new_632: 357872061
+      ATLAS - new_815: 1148377161
+      ATLAS - new_251: 1265797972
+      ATLAS - new_256: 402873604
+      ATLAS - new_592: -407140360
+      ATLAS - new_638: -856338115
+      labComputer_3: 1707905116
+      ATLAS - new_151: 1229669615
+      ATLAS - new_782: 654317568
+      ATLAS - new_449: 1506568760
+      ATLAS - new_433: -777916892
+      slimeBlueSmall_4: -1951774720
+      laserTurret_1: -60925777
+      slimeGreenBigL_0: 756336255
+      ATLAS - new_106: -485562583
+      reactor_12: 61450240
+      ATLAS - new_290: -1237702357
+      ATLAS - new_556: 465867853
+      playerSide_0: -1559933331
+      ATLAS - new_484: -56780010
+      ATLAS - new_568: 870445041
+      item_battery: -233119564
+      reactor_9: -1701565197
+      ATLAS - new_796: -1116767211
+      ATLAS - new_503: 822127377
+      ATLAS - new_462: -1054929903
+      ATLAS - new_118: -297365532
+      ATLAS - new_250: 1472369383
+      ATLAS - new_674: 1304339611
+      ATLAS - new_664: -232789242
+      ATLAS - new_822: -1405208036
+      ATLAS - new_297: 137015420
+      slimeRedBigR_2: 9912353
+      ATLAS - new_778: -1044058901
+      playerFront_0: 1583413047
+      ATLAS - new_175: 1137495634
+      ATLAS - new_750: 1806479452
+      ATLAS - new_730: 1169349473
+      ATLAS - new_154: -1189478741
+      ATLAS - new_176: -348017877
+      ATLAS - new_166: 1900185528
+      caveWallR_2: -1050338973
+      ATLAS - new_341: -1378533886
+      ATLAS - new_631: 1791657772
+      ATLAS - new_112: 1382165834
+      ATLAS - new_477: -890083168
+      ATLAS - new_434: -41692849
+      slimeGreenBigR_1: 940685548
+      caveFloorDeco_7: 272119693
+      ATLAS - new_218: 110311930
+      ATLAS - new_190: -1397871939
+      ATLAS - new_526: -33030003
+      ATLAS - new_362: 1732907881
+      ATLAS - new_860: -164997995
+      ATLAS - new_599: 1481973896
+      ATLAS - new_653: 405395537
+      ATLAS - new_135: 1909459690
+      ATLAS - new_518: 852379287
+      slimeRedBig_0: -519098014
+      ATLAS - new_193: 813392872
+      ATLAS - new_747: 2026357649
+      ATLAS - new_70: -109418668
+      ATLAS - new_483: -1773088376
+      ATLAS - new_810: 181656320
+      ATLAS - new_380: 1363062786
+      ATLAS - new_364: -1177228131
+      playerFront_1: 1905352448
+      ATLAS - new_174: 2123042690
+      ATLAS - new_818: -265507794
+      ATLAS - new_305: -745184694
+      ATLAS - new_149: -1573526315
+      ATLAS - new_310: -1856486424
+      ATLAS - new_505: -249434978
+      ATLAS - new_585: -1124359928
+      ATLAS - new_122: -1293565836
+      reactor_10: 1801838159
+      ATLAS - new_80: -1256551309
+      ATLAS - new_145: -1139942584
+      ATLAS - new_463: -127452051
+      reactor_22: 1873315625
+      ATLAS - new_731: 218431749
+      ATLAS - new_649: -1953174657
+      ATLAS - new_604: -889198693
+      ATLAS - new_207: -2051252672
+      ATLAS - new_168: 1401190830
+      ATLAS - new_137: -479597049
+      ATLAS - new_561: -1615192474
+      labComputer_2: -653405631
+      labComputerLock_green: -1138639191
+      ATLAS - new_167: 2064559746
+      ATLAS - new_336: -2047354174
+      ATLAS - new_470: 152290425
+      ATLAS - new_517: -612539519
+      ATLAS - new_259: -1373848162
+      ATLAS - new_450: 1110172831
+      ATLAS - new_182: 1865290146
+      ATLAS - new_403: -1922582339
+      ATLAS - new_736: -1729862670
+      ATLAS - new_601: 431653129
+      ATLAS - new_623: 318985372
+      ATLAS - new_287: 1534800539
+      ATLAS - new_695: 1603551155
+      labTable_blob: -650195821
+      ATLAS - new_705: 637634211
+      ATLAS - new_309: -972903950
+      ATLAS - new_31: -1956598126
+      caveFloorDeco_6: 436313304
+      ATLAS - new_803: 1671117147
+      ATLAS - new_776: 1851960896
+      ATLAS - new_371: -1888011663
+      ATLAS - new_595: 304428803
+      ATLAS - new_770: 669172488
+      ATLAS - new_565: -375623892
+      ATLAS - new_777: 1357719129
+      item_bullet: -937924138
+      ATLAS - new_597: 164578623
+      ATLAS - new_636: 1360375113
+      weapon_pistol: -1413905567
+      ATLAS - new_560: 823979507
+      ATLAS - new_191: -1992766855
+      caveFloorDeco_5: -867889134
+      ATLAS - new_78: -1493465467
+      ATLAS - new_363: -1722081930
+      ATLAS - new_573: -1306864696
+      caveWallL_innerCorner: 746379342
+      ATLAS - new_617: -1507244322
+      slimeBlueBig_0: 1412386873
+      ATLAS - new_807: 1986948928
+      ATLAS - new_532: 269902690
+      ATLAS - new_230: 1384810138
+      ATLAS - new_666: 486375548
+      ATLAS - new_152: 117616946
+      ATLAS - new_147: 1163199159
+      reactor_21: -2056636104
+      ATLAS - new_342: -949595240
+      ATLAS - new_3: 1822570949
+      ATLAS - new_328: -429754319
+      ATLAS - new_32: 1778666589
+      ATLAS - new_530: 584980529
+      caveFloorDeco_9: 1084095941
+      ATLAS - new_722: 987157193
+      playerFront_3: 421052833
+      ATLAS - new_703: 47451723
+      weapon_sword: -721309046
+      ATLAS - new_723: 224940682
+      caveVoid: 2073017387
+      ATLAS - new_331: -361981459
+      ATLAS - new_275: 2079293095
+      ATLAS - new_706: -700240221
+      ATLAS - new_374: -180982560
+      reactor_27: 1781193657
+      ATLAS - new_745: 122362008
+      reactor_29: 629093267
+      ATLAS - new_281: -1240309026
+      caveInnerwallR: 1871378163
+      caveWallSideLB_1: 641038498
+      UI-arrowDOWN: -54821024
+      ATLAS - new_487: -232187637
+      ATLAS - new_820: -1917960728
+      ATLAS - new_541: 622386234
+      ATLAS - new_618: -1678463971
+      ATLAS - new_588: 439279004
+      rammer_0: 1161265483
+      ATLAS - new_258: 889447717
+      ATLAS - new_742: 1071443651
+      reactor_17: 8241936
+      ATLAS - new_105: 2123483884
+      ATLAS - new_689: -2131168127
+      ATLAS - new_315: -1723899508
+      ATLAS - new_395: 1337459649
+      ATLAS - new_456: -1541716060
+      ATLAS - new_139: 1779855938
+      ATLAS - new_480: 288030549
+      ATLAS - new_752: -827964923
+      playerBack_2: 1440793485
+      ATLAS - new_242: 378892398
+      slimeRedSmall_2: -404441026
+      ATLAS - new_183: -724770064
+      ATLAS - new_538: -2075361649
+      ATLAS - new_262: 947791331
+      caveCliff_2: 1194657139
+      ATLAS - new_153: 159193688
+      reactor_4: 1868956493
+      ATLAS - new_311: 1841181100
+      ATLAS - new_593: 1493699338
+      ATLAS - new_720: -1211700297
+      labComputer_5: 1853634847
+      ATLAS - new_713: -375352933
+      slimeRedSmall_4: 1916348448
+      ATLAS - new_55: 1618524118
+      reactor_7: 1649447600
+      ATLAS - new_260: 700057546
+      ATLAS - new_437: -2083029006
+      reactor_13: 1400014180
+      ATLAS - new_562: -151478598
+      ATLAS - new_575: -615814732
+      ATLAS - new_708: -1851495241
+      ATLAS - new_308: 1683494615
+      ATLAS - new_544: -1004742773
+      ATLAS - new_268: -973525170
+      duplicator_1: -909988399
+      caveFloorDeco_10: 1010913933
+      reactor_1: 532856533
+      ATLAS - new_851: -1855912024
+      caveWallSideShortL_3: -1415419562
+      reactor_26: -1152243086
+      ATLAS - new_114: 644115154
+      ATLAS - new_28: 301311455
+      playerSide_1: -415277418
+      reactor_24: 628445390
+      ATLAS - new_472: 1686813343
+      ATLAS - new_316: -1084721275
+      labWallSide-LB: -619595311
+      ATLAS - new_546: 804589537
+      ATLAS - new_478: -1271625075
+      ATLAS - new_536: 201747924
+      ATLAS - new_626: -1290407009
+      ATLAS - new_318: -986944279
+      ATLAS - new_858: 59685402
+      ATLAS - new_219: -28219482
+      ATLAS - new_330: 923227692
+      ATLAS - new_578: -1456740491
+      labWallSide-RM: -2009138694
+      ATLAS - new_22: -275373643
+      slimeRedSmall_1: 88295319
+      reactor_2: 1446240177
+      caveFloorDeco_3: 454617962
+      ATLAS - new_129: -2086321776
+      ATLAS - new_428: -502990196
+      ATLAS - new_786: 892378179
+      ATLAS - new_104: -29923475
+      ATLAS - new_836: 617838151
+      ATLAS - new_675: 787293351
+      ATLAS - new_427: 124733052
+      ATLAS - new_529: -1908359824
+      ATLAS - new_847: 683377902
+      ATLAS - new_351: -1720050269
+      ATLAS - new_385: 1411847960
+      ATLAS - new_451: 1472393418
+      ATLAS - new_859: -1710677489
+      ATLAS - new_178: -604012960
+      labTable_goo: 1163322711
+      ATLAS - new_353: 401693266
+      ATLAS - new_596: -1354723329
+      ATLAS - new_856: 604739070
+      ATLAS - new_620: 1068993481
+      ATLAS - new_591: 2099934516
+      ATLAS - new_678: -724888238
+      caveWallSideL_corner: -1726759201
+      ATLAS - new_524: 1798889301
+      ATLAS - new_12: -2036391572
+      ATLAS - new_717: -374039174
+      playerBack_0: -2089691702
+      ATLAS - new_407: 347608379
+      ATLAS - new_629: -1767249347
+      ATLAS - new_844: 1744510046
+      ATLAS - new_291: -829903463
+      ATLAS - new_2: 1951692364
+      ATLAS - new_94: 368730543
+      ATLAS - new_401: 1085210720
+      labChest_1: 1678065486
+      ATLAS - new_113: 599751417
+      ATLAS - new_673: -1814804272
+      ATLAS - new_64: -1694768635
+      labWallLong-R: -1848867953
+      ATLAS - new_563: 1746909319
+      ATLAS - new_804: -693745484
+      ATLAS - new_772: 562203130
+      UI-temp: -461184562
+      ATLAS - new_637: -947036077
+      ATLAS - new_189: -1026063957
+      ATLAS - new_373: -197079365
+      reactor_18: 1242287793
+      ATLAS - new_733: -749685079
+      ATLAS - new_816: 2065549291
+      ATLAS - new_549: -538454627
+      ATLAS - new_746: -1874943208
+      slimeRedBigL_1: 70526620
+      ATLAS - new_184: -1328150787
+      caveWallR_outerCorner: 1738436499
+      ATLAS - new_687: -995948572
+      ATLAS - new_381: 1461585285
+      ATLAS - new_197: -903918877
+      slimeGreenSmall_0: 822703858
+      labWallSide-LF: 1863564881
+      ATLAS - new_520: 1582153819
+      ATLAS - new_466: -862511950
+      ATLAS - new_582: 1145481306
+      labWallShort-R: -2116656298
+      ATLAS - new_289: -891008294
+      ATLAS - new_84: -1931405268
+      ATLAS - new_510: 1876970050
+      ATLAS - new_337: 1405321914
+      duplicator_2: -985678604
+      caveWallSideShortR_1: 2057579800
+      ATLAS - new_448: -767157344
+      ATLAS - new_369: 1495202210
+      ATLAS - new_377: -1153454365
+      ATLAS - new_830: 1040454448
+      reactor_19: 1195814987
+      ATLAS - new_548: 1977189180
+      ATLAS - new_65: 263807491
+      ATLAS - new_196: -1941691007
+      ATLAS - new_848: -1179723806
+      ATLAS - new_496: 274557819
+      ATLAS - new_841: 1534595670
+      UI-tempHOT: -1539016902
+      ATLAS - new_116: -1475438309
+      bullet_0: 42808757
+      ATLAS - new_628: -1810568388
+      ATLAS - new_642: -358444573
+      ATLAS - new_411: 254439254
+      ATLAS - new_473: 1397783079
+      caveWallSideR_1: -96285973
+      ATLAS - new_672: -472979490
+      UI-noArrow: -1519854862
+      ATLAS - new_355: 386014483
+      ATLAS - new_837: 1311018634
+      caveWallSideL_1: -2034584295
+      labDoor_4: 1468841045
+      ATLAS - new_600: -925188133
+      ATLAS - new_656: -1215106646
+      reactor_14: -569700214
+      ATLAS - new_445: 2029761569
+      ATLAS - new_852: -1375490229
+      labDoor_1: -1082488170
+      slimeBlueBigR_0: -270131724
+      ATLAS - new_787: -1245530022
+      caveFloorDeco_2: 39058245
+      ATLAS - new_605: 286197002
+      ATLAS - new_685: 686139392
+      ATLAS - new_769: 331140652
+      ATLAS - new_586: 390186529
+      reactor_0: 1080845844
+      reactor_28: 687428554
+      ATLAS - new_502: -2123988833
+      ATLAS - new_350: -1417339893
+      ATLAS - new_278: 722839570
+      caveFloorDeco_8: -1570144439
+      ATLAS - new_509: -164412674
+      ATLAS - new_111: 773486956
+      ATLAS - new_386: -2084429786
+      ATLAS - new_435: -303554467
+      ATLAS - new_327: 1953556958
+      ATLAS - new_109: -1089682140
+      ATLAS - new_737: 478111259
+      ATLAS - new_569: 338904262
+      ATLAS - new_630: 1565398875
+      ATLAS - new_616: -394772058
+      ATLAS - new_681: -1762939594
+      ATLAS - new_825: -288221120
+      ATLAS - new_447: -1342117012
+      ATLAS - new_634: -742017884
+      reactor_20: -1089248920
+      ATLAS - new_635: -18837615
+      ATLAS - new_300: 1657381649
+      ATLAS - new_34: -539043567
+      ATLAS - new_186: 157662411
+      ATLAS - new_780: -1314018331
+      caveWallSideRB_1: 2017817868
+      ATLAS - new_345: -130128002
+      ATLAS - new_431: -606783420
+      ATLAS - new_542: -42665499
+      ATLAS - new_646: 28053796
+      ATLAS - new_406: 2127633327
+      ATLAS - new_181: 527582026
+      ATLAS - new_761: -786729584
+      UI-syringe: -34360526
+      ATLAS - new_206: 1579506734
+      ATLAS - new_828: -1006804378
+      ATLAS - new_690: -122846756
+      ATLAS - new_332: 585388338
+      ATLAS - new_765: 607790538
+      ATLAS - new_523: 312246781
+      ATLAS - new_294: -74077189
+      ATLAS - new_850: -2119105492
+      rammer_3: 344343504
+      ATLAS - new_199: -572032393
+      ATLAS - new_173: 1954001609
+      caveWallR_0: -690951627
+      ATLAS - new_799: -749275853
+      ATLAS - new_430: 2099251315
+      ATLAS - new_519: -1389621007
+      ATLAS - new_648: 668026878
+      slimeGreenBigR_0: -130091140
+      ATLAS - new_760: -996202755
+      labWallSide-RB: 1765430445
+      ATLAS - new_813: -1097363871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
